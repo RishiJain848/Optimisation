@@ -1,3 +1,2 @@
 # Optimisation
-This repository consists work in optimisation field.
-Gene folder contains my genetic algo term project work
+Gene folder contains my genetic algo term project work and other two files are codes for some operations_researcg case studies. 
